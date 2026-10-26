@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.lnk
+*.log
+.venv/
+.env
+*-settings.json
+adventure-save.json

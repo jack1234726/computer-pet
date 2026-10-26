@@ -1,0 +1,301 @@
+{
+  "voice": "Suzu - Cute, Clear & Calm",
+  "provider": "ElevenLabs",
+  "language": "ja-JP",
+  "subtitle_language": "zh-CN",
+  "description": "用户提供的 Suzu 日语合成配音，中文字幕；按用户确认的生成顺序对应。",
+  "mapping_confirmed_by_user": true,
+  "lines": [
+    {
+      "id": "start-1",
+      "event": "start",
+      "text": "准备好了吗？一起去冒险吧！",
+      "spoken_text": "準備はいい？一緒に冒険しよう！",
+      "source_file": "ElevenLabs_2026-10-19T10_19_24_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.926,
+      "source_sha256": "e7954f4d75caf7834d9ec0db074a96a75c3f05b96e6aa3805d5fc3911a03761e"
+    },
+    {
+      "id": "start-2",
+      "event": "start",
+      "text": "今天，也要闪闪发光！",
+      "spoken_text": "今日も、キラキラ輝こうね！",
+      "source_file": "ElevenLabs_2026-10-19T10_19_50_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.691,
+      "source_sha256": "bf1989971f1118d40a8fea3a7b0a956c271a9e6683c4d3337f68e1e95bd02028"
+    },
+    {
+      "id": "jump-1",
+      "event": "jump",
+      "text": "嘿！",
+      "spoken_text": "えいっ！",
+      "source_file": "ElevenLabs_2026-10-19T10_20_53_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 0.914,
+      "source_sha256": "966c803c9508081567d17a91b33a4872c1f5dbde4b06042aaa8a4efff41fe327"
+    },
+    {
+      "id": "jump-2",
+      "event": "jump",
+      "text": "再高一点！",
+      "spoken_text": "もっと高く！",
+      "source_file": "ElevenLabs_2026-10-19T10_21_53_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 1.646,
+      "source_sha256": "d83f7b28d32142f94c99167c0336b0d68c1f3d2be396db64e5b007e64f6432f7"
+    },
+    {
+      "id": "shoot-1",
+      "event": "shoot",
+      "text": "星光，出发！",
+      "spoken_text": "お星さま、いっけー！",
+      "source_file": "ElevenLabs_2026-10-19T10_22_18_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.351,
+      "source_sha256": "80b3c3e56b4755ae545a20f3bc7d0b391445a8c4bfecfd17d4151b89f50365b2"
+    },
+    {
+      "id": "shoot-2",
+      "event": "shoot",
+      "text": "看我的！",
+      "spoken_text": "見ててね！",
+      "source_file": "ElevenLabs_2026-10-19T10_22_53_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 1.149,
+      "source_sha256": "f9050763340b82696fdba9768c3780f6ea7fcc89fea4c68bf217acb753e6bdba"
+    },
+    {
+      "id": "dash-1",
+      "event": "dash",
+      "text": "跟上我！",
+      "spoken_text": "ついてきてね！",
+      "source_file": "ElevenLabs_2026-10-19T10_23_13_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 1.306,
+      "source_sha256": "6494faaa5a38e549351f0700c264da49aae2959b0824fe832ccb107b2385b8f4"
+    },
+    {
+      "id": "burst-1",
+      "event": "burst",
+      "text": "星环，绽放！",
+      "spoken_text": "星の輪よ、咲き誇れ！",
+      "source_file": "ElevenLabs_2026-10-19T10_23_38_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.351,
+      "source_sha256": "23afb62bbb4692dc51ea02caea31e6b3d6b7250ece96572fbdd60e36039773e4"
+    },
+    {
+      "id": "pickup-1",
+      "event": "pickup",
+      "text": "找到小星星啦！",
+      "spoken_text": "お星さま、見つけた！",
+      "source_file": "ElevenLabs_2026-10-19T10_24_04_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.273,
+      "source_sha256": "2043f8956e934a59b9f66ed98295baba91e081b65635895d787839a2541350b7"
+    },
+    {
+      "id": "pickup-2",
+      "event": "pickup",
+      "text": "再收集一点点！",
+      "spoken_text": "あとちょっと、集めよう！",
+      "source_file": "ElevenLabs_2026-10-19T10_24_27_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.038,
+      "source_sha256": "018bbe908e21b611e8437a06e200dcde8a13eb622f28fa9739edd7059bfcb412"
+    },
+    {
+      "id": "chest-1",
+      "event": "chest",
+      "text": "哇，是宝藏！",
+      "spoken_text": "わあ、宝物だ！",
+      "source_file": "ElevenLabs_2026-10-19T10_25_35_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.351,
+      "source_sha256": "e206c0bc3772adc568bfbac11a5d2fcc978185e5118f08b25b6ee12158223e92"
+    },
+    {
+      "id": "hurt-1",
+      "event": "hurt",
+      "text": "唔，要小心一点！",
+      "spoken_text": "うぅ、気をつけなきゃ。",
+      "source_file": "ElevenLabs_2026-10-19T10_26_33_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.273,
+      "source_sha256": "edab9dfa0af662c3e6b93a6d40a9ff919447e4f1947030913f40916520864198"
+    },
+    {
+      "id": "checkpoint-1",
+      "event": "checkpoint",
+      "text": "在这里，休息一下吧。",
+      "spoken_text": "ここで、ひと休みしよう？",
+      "source_file": "ElevenLabs_2026-10-19T10_27_14_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.038,
+      "source_sha256": "dae2a948ed37e99caf508d3dec5acdda774b64a95a823aecc26b9f1cda6a6c32"
+    },
+    {
+      "id": "respawn-1",
+      "event": "respawn",
+      "text": "没关系，我们再试一次！",
+      "spoken_text": "大丈夫！もう一回やってみよう！",
+      "source_file": "ElevenLabs_2026-10-19T10_27_32_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.586,
+      "source_sha256": "4c1e3a1e8eb0af99ace67025c5100fd792c25d18d29c4886018e7d786f78c792"
+    },
+    {
+      "id": "win-1",
+      "event": "win",
+      "text": "太棒啦！我们做到了！",
+      "spoken_text": "やったー！できたね！",
+      "source_file": "ElevenLabs_2026-10-19T10_27_57_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 3.161,
+      "source_sha256": "e9826cf3453f7852c8ab0559652d65a36ec073f0a9379d52e3618f3ba1733922"
+    },
+    {
+      "id": "welcome-1",
+      "event": "welcome",
+      "text": "嘿嘿，你来啦！",
+      "spoken_text": "えへへ、来てくれたんだ！",
+      "source_file": "ElevenLabs_2026-10-19T10_28_19_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.351,
+      "source_sha256": "5d69a5c6e37c82fb99605f1833c978673cc7e17c9af33c146a907c5490cc9787"
+    },
+    {
+      "id": "touch-1",
+      "event": "touch",
+      "text": "呀，有点痒啦。",
+      "spoken_text": "ひゃっ、くすぐったいよぉ。",
+      "source_file": "ElevenLabs_2026-10-19T10_28_43_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 3.082,
+      "source_sha256": "98d0e35ebfaa1a81c267eb0f9ecc9e3121152ba0feb9a3ad54c12856a2177f47"
+    },
+    {
+      "id": "drag-1",
+      "event": "drag",
+      "text": "哇，要带我去哪里呀？",
+      "spoken_text": "わわっ、どこに連れていくの？",
+      "source_file": "ElevenLabs_2026-10-19T10_29_34_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.586,
+      "source_sha256": "2a874dbbabf56a8a3851434af0f4882b7b73a9371a66ff530d5a0b1aeb2ab742"
+    },
+    {
+      "id": "outfit-1",
+      "event": "outfit",
+      "text": "这条裙子，适合我吗？",
+      "spoken_text": "このワンピース、似合うかな？",
+      "source_file": "ElevenLabs_2026-10-19T10_30_21_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 3.866,
+      "source_sha256": "06a46eb44d505a5e6cf3b872a02cc5cc5e70fd276d875a1575c45898e7c46af0"
+    },
+    {
+      "id": "wave-1",
+      "event": "wave",
+      "text": "你好呀！",
+      "spoken_text": "やっほー！",
+      "source_file": "ElevenLabs_2026-10-21T10_20_53_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 1.228,
+      "source_sha256": "b3ee30dda415787234f1d1b94039cfce4ee8c2d090d19c45e993e7c4dfadc056",
+      "mapping_confirmed_by_user": true
+    },
+    {
+      "id": "sleep-1",
+      "event": "sleep",
+      "text": "休息一下下…",
+      "spoken_text": "ちょっとだけ、お昼寝するね。",
+      "source_file": "ElevenLabs_2026-10-21T10_21_57_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 4.441,
+      "source_sha256": "981fe70f80ebfc31e4527f048c79e9804aa26918d4b91df0944b67fdae547d70",
+      "mapping_confirmed_by_user": true
+    },
+    {
+      "id": "invite-1",
+      "event": "invite",
+      "text": "双击我，一起去冒险！",
+      "spoken_text": "ダブルクリックして、一緒に冒険しよう！",
+      "source_file": "ElevenLabs_2026-10-21T10_22_43_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.926,
+      "source_sha256": "14e5a4e02a5c1df7c86d3c0cee102b896f297750630a2e61df4f8ca4dc39b96b",
+      "mapping_confirmed_by_user": true
+    },
+    {
+      "id": "return-1",
+      "event": "return",
+      "text": "回来啦～再一起去冒险吧。",
+      "spoken_text": "ただいま！また一緒に冒険しようね。",
+      "source_file": "ElevenLabs_2026-10-21T10_23_29_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.926,
+      "source_sha256": "59d5cfa739250d3b66a1de4e6f282decb86c78c27ba8d898cb46dbaedaf8c3e2",
+      "mapping_confirmed_by_user": true
+    },
+    {
+      "id": "recall-1",
+      "event": "recall",
+      "text": "我在这里呀！",
+      "spoken_text": "ここにいるよ！",
+      "source_file": "ElevenLabs_2026-10-21T10_24_22_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.194,
+      "source_sha256": "8a9ccb15c049350f781780bcd984f7656b3f0fc10ca31e501d3f28a2f5260b2c",
+      "mapping_confirmed_by_user": true
+    },
+    {
+      "id": "follow-1",
+      "event": "follow",
+      "text": "跟着你啦！",
+      "spoken_text": "ついていくね！",
+      "source_file": "ElevenLabs_2026-10-21T10_24_44_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 1.149,
+      "source_sha256": "bd4186c72aa86e5f241c23990bf9302e7a3da2c6865b0d26198b2b6c8890dcb7",
+      "mapping_confirmed_by_user": true
+    },
+    {
+      "id": "stay-1",
+      "event": "stay",
+      "text": "我在这里陪你",
+      "spoken_text": "ここで、そばにいるね。",
+      "source_file": "ElevenLabs_2026-10-21T10_25_13_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 3.004,
+      "source_sha256": "68008457c951aa8f85a2435468fef310179f7bf614e6efcd42e0a87541abbbf0",
+      "mapping_confirmed_by_user": true
+    },
+    {
+      "id": "hop-1",
+      "event": "hop",
+      "text": "出发！",
+      "spoken_text": "しゅっぱーつ！",
+      "source_file": "ElevenLabs_2026-10-21T10_25_32_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 1.646,
+      "source_sha256": "e38cc64e3052a8557429640abd5a1dae24519838500172f51b598ee20fcc9b71",
+      "mapping_confirmed_by_user": true
+    },
+    {
+      "id": "file-1",
+      "event": "file",
+      "text": "看看你选了什么…",
+      "spoken_text": "何を選んだの？見せて見せて！",
+      "source_file": "ElevenLabs_2026-10-21T10_26_18_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 3.004,
+      "source_sha256": "5e036329b9f60ebc46f026b4fd9547f62ae00c4689242061c7f7d50e1f86c552",
+      "mapping_confirmed_by_user": true
+    },
+    {
+      "id": "desktop-1",
+      "event": "desktop",
+      "text": "桌面上有什么新发现？",
+      "spoken_text": "何か新しいもの、見つけた？",
+      "source_file": "ElevenLabs_2026-10-21T10_26_58_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.586,
+      "source_sha256": "7f405724fe0e4eb84c59975a5af0bcccf7fe94590acb56a90be4434c489e5f36",
+      "mapping_confirmed_by_user": true
+    },
+    {
+      "id": "enter-1",
+      "event": "enter",
+      "text": "收到，出发！",
+      "spoken_text": "りょうかい！いってみよう！",
+      "source_file": "ElevenLabs_2026-10-21T10_27_25_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 1.881,
+      "source_sha256": "6ab0543401868d60805f0194010a977d4a22643e967a73628ffec34931a8e86e",
+      "mapping_confirmed_by_user": true
+    },
+    {
+      "id": "sailor-1",
+      "event": "sailor",
+      "text": "换上晴空水手服啦～",
+      "spoken_text": "セーラー服に着替えたよ！",
+      "source_file": "ElevenLabs_2026-10-21T10_27_45_Suzu - Cute, Clear & Calm_pvc_sp93_s100_sb75_v4.mp3",
+      "duration_seconds": 2.038,
+      "source_sha256": "ec241bfb6d5f4b97cc0e9d18178310d17049067f240b2d35f3ac0d3a0787cbc3",
+      "mapping_confirmed_by_user": true
+    }
+  ]
+}

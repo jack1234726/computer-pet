@@ -1,0 +1,24 @@
+{
+  "voice": "Microsoft Yaoyao",
+  "language": "zh-CN",
+  "speaking_rate": 1.08,
+  "audio_pitch": 1.12,
+  "description": "Windows 本机中文合成女声，语速略快、音调略亮；没有模仿特定真人。",
+  "lines": [
+    {"id":"start-1","event":"start","text":"准备好了吗？一起去冒险吧！"},
+    {"id":"start-2","event":"start","text":"今天，也要闪闪发光！"},
+    {"id":"jump-1","event":"jump","text":"嘿！"},
+    {"id":"jump-2","event":"jump","text":"再高一点！"},
+    {"id":"shoot-1","event":"shoot","text":"星光，出发！"},
+    {"id":"shoot-2","event":"shoot","text":"看我的！"},
+    {"id":"dash-1","event":"dash","text":"跟上我！"},
+    {"id":"burst-1","event":"burst","text":"星环，绽放！"},
+    {"id":"pickup-1","event":"pickup","text":"找到小星星啦！"},
+    {"id":"pickup-2","event":"pickup","text":"再收集一点点！"},
+    {"id":"chest-1","event":"chest","text":"哇，是宝藏！"},
+    {"id":"hurt-1","event":"hurt","text":"唔，要小心一点！"},
+    {"id":"checkpoint-1","event":"checkpoint","text":"在这里，休息一下吧。"},
+    {"id":"respawn-1","event":"respawn","text":"没关系，我们再试一次！"},
+    {"id":"win-1","event":"win","text":"太棒啦！我们做到了！"}
+  ]
+}
